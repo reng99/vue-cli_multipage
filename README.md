@@ -12,7 +12,7 @@
 ```javascript
 
   # 下载代码
-  $ git clone https://github.com/reng99/webpack.git
+  $ git clone https://github.com/reng99/vue-cli_multipage.git
 
   # 安装依赖
   $ npm install
